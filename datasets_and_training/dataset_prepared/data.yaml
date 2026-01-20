@@ -1,0 +1,6 @@
+names:
+- pothole
+nc: 1
+path: C:/pot/dataset_prepared
+train: train/images
+val: val/images
